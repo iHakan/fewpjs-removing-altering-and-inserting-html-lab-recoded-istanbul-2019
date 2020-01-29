@@ -1,2 +1,2 @@
 // Write your code here!
-document.get
+document.querySelector('main#main').remove();
